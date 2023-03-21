@@ -16,7 +16,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Dictionary", "04. Dicti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. SortedList", "05. SortedList\05. SortedList.csproj", "{811B93AD-0038-42E5-B09E-8E38EFF57DC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 OOP Intro", "06 OOP Intro\06 OOP Intro.csproj", "{66FCB803-5C82-4705-A884-D84BEB56CF94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06 OOP Intro", "06 OOP Intro\06 OOP Intro.csproj", "{66FCB803-5C82-4705-A884-D84BEB56CF94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. OOP Part2", "07. OOP Part2\07. OOP Part2.csproj", "{853B36C1-AFC7-4303-8869-7D0858C896E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,6 +50,10 @@ Global
 		{66FCB803-5C82-4705-A884-D84BEB56CF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66FCB803-5C82-4705-A884-D84BEB56CF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66FCB803-5C82-4705-A884-D84BEB56CF94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853B36C1-AFC7-4303-8869-7D0858C896E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853B36C1-AFC7-4303-8869-7D0858C896E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853B36C1-AFC7-4303-8869-7D0858C896E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853B36C1-AFC7-4303-8869-7D0858C896E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
