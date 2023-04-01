@@ -26,9 +26,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Generic interfaces", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Boxing_Unboxing", "10. Boxing_Unboxing\10. Boxing_Unboxing.csproj", "{43CB04BF-1B34-4A77-A3E3-E1F5B5A9E121}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Delegate", "11. Delegate\11. Delegate.csproj", "{DE89EEFB-F450-44AB-B143-AC991CC730B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Delegate", "11. Delegate\11. Delegate.csproj", "{DE89EEFB-F450-44AB-B143-AC991CC730B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Delegate example", "12. Delegate example\12. Delegate example.csproj", "{98DEE6D4-B3CE-43FA-B0CD-AB5C5E09EA32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. Delegate example", "12. Delegate example\12. Delegate example.csproj", "{98DEE6D4-B3CE-43FA-B0CD-AB5C5E09EA32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Events", "13. Events\13. Events.csproj", "{18FAD284-6EF8-4534-B44F-82087786A41C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -84,6 +86,10 @@ Global
 		{98DEE6D4-B3CE-43FA-B0CD-AB5C5E09EA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98DEE6D4-B3CE-43FA-B0CD-AB5C5E09EA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98DEE6D4-B3CE-43FA-B0CD-AB5C5E09EA32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FAD284-6EF8-4534-B44F-82087786A41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FAD284-6EF8-4534-B44F-82087786A41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FAD284-6EF8-4534-B44F-82087786A41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FAD284-6EF8-4534-B44F-82087786A41C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
