@@ -32,6 +32,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. Delegate example", "12.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Events", "13. Events\13. Events.csproj", "{18FAD284-6EF8-4534-B44F-82087786A41C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Files and Exceptions", "13. Files and Exceptions\13. Files and Exceptions.csproj", "{3C288468-614A-4FBA-9E10-30E14D047F37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,6 +92,10 @@ Global
 		{18FAD284-6EF8-4534-B44F-82087786A41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18FAD284-6EF8-4534-B44F-82087786A41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18FAD284-6EF8-4534-B44F-82087786A41C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C288468-614A-4FBA-9E10-30E14D047F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C288468-614A-4FBA-9E10-30E14D047F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C288468-614A-4FBA-9E10-30E14D047F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C288468-614A-4FBA-9E10-30E14D047F37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
