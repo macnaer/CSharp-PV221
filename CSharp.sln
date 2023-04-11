@@ -34,7 +34,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Events", "13. Events\13
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Files and Exceptions", "13. Files and Exceptions\13. Files and Exceptions.csproj", "{3C288468-614A-4FBA-9E10-30E14D047F37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Serialization", "14. Serialization\14. Serialization.csproj", "{964F1B46-3525-44DD-9CE7-C8C5167BA69A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14. Serialization", "14. Serialization\14. Serialization.csproj", "{964F1B46-3525-44DD-9CE7-C8C5167BA69A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Linq intro", "16. Linq intro\16. Linq intro.csproj", "{05B07B9A-BBA6-4613-9B6A-E8ECD10EFC94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -102,6 +104,10 @@ Global
 		{964F1B46-3525-44DD-9CE7-C8C5167BA69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{964F1B46-3525-44DD-9CE7-C8C5167BA69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{964F1B46-3525-44DD-9CE7-C8C5167BA69A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B07B9A-BBA6-4613-9B6A-E8ECD10EFC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B07B9A-BBA6-4613-9B6A-E8ECD10EFC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B07B9A-BBA6-4613-9B6A-E8ECD10EFC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B07B9A-BBA6-4613-9B6A-E8ECD10EFC94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
