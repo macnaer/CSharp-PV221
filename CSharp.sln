@@ -36,7 +36,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Files and Exceptions", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14. Serialization", "14. Serialization\14. Serialization.csproj", "{964F1B46-3525-44DD-9CE7-C8C5167BA69A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Linq intro", "16. Linq intro\16. Linq intro.csproj", "{05B07B9A-BBA6-4613-9B6A-E8ECD10EFC94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16. Linq intro", "16. Linq intro\16. Linq intro.csproj", "{05B07B9A-BBA6-4613-9B6A-E8ECD10EFC94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. Lonq Countinue", "17. Lonq Countinue\17. Lonq Countinue.csproj", "{A51A990C-20EB-48AC-AF4F-8D31666A6133}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -108,6 +110,10 @@ Global
 		{05B07B9A-BBA6-4613-9B6A-E8ECD10EFC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05B07B9A-BBA6-4613-9B6A-E8ECD10EFC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05B07B9A-BBA6-4613-9B6A-E8ECD10EFC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A51A990C-20EB-48AC-AF4F-8D31666A6133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51A990C-20EB-48AC-AF4F-8D31666A6133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51A990C-20EB-48AC-AF4F-8D31666A6133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51A990C-20EB-48AC-AF4F-8D31666A6133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
