@@ -82,6 +82,12 @@ namespace _17._Lonq_Countinue
             {
                 Console.WriteLine(student);
             }
+
+            var maxDate = students1.Max(s => s.BirthDate);
+
+            var 
+
+            
         }
     }
 }
